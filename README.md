@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Mizuki
 
-:computer: Fullstack JavaScript developer specialized in React,
+* :computer: Fullstack JavaScript developer specialized in React,
 
-:mortar_board: Consistantly learning new things and creating new apps,
+* :mortar_board: Consistantly learning new things and working on new apps,
 
-:earth_africa: Can communicate in French, English and Japanese, 
+* :rainbow: Strive in diverse and supportive environment, 
 
-Check out my Portfolio
+* :earth_africa: Can communicate in French, English and Japanese, 
+
+Don't hesitate to contact me for any inquiries !
