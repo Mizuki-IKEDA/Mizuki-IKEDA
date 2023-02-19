@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Mizuki
 
-:computer: I'm a JavaScript fullstack developer based in Paris, 
+:computer: Fullstack JavaScript developer specialized in React,
 
-Check out my work!
+:mortar_board: Consistantly learning new things and creating new apps,
+
+:earth_africa: Can communicate in French, English and Japanese, 
+
+Check out my Portfolio
