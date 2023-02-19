@@ -4,7 +4,7 @@
 
 * :mortar_board: Consistantly learning new things and working on new apps,
 
-* :rainbow: Strive in diverse and supportive environment, 
+* :rainbow: Strive in diverse and supportive environments, 
 
 * :earth_africa: Can communicate in French, English and Japanese, 
 
